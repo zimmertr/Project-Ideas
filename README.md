@@ -16,3 +16,7 @@ This repository is simply a collection of project ideas that I have.
     - Speaker to beep periodically as an `alarm` when warnining states occur.
     - 8-segment screens and a button to switch through status for ping response times, download speed, upload speed, etc.
 ```
+
+## Other
+
+1. Build a ovular frame from wood with strings attached to bottom and top. The end of each string has a magnet that attracts the other. So that when the strings are positioned correctly, they will hover together in the center. 
